@@ -3,9 +3,9 @@
 var Todo = require('./models/todo');
 
 var todos = [
-	'Feed the dog',
-	'Walk the kids',
-	'Water the trees'
+	'Plant a shrubbery',
+	'Learn all the code',
+	'Water your repo'
 ];
 
 todos.forEach(function (todo, index) {
