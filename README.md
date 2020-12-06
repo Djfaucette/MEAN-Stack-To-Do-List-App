@@ -30,7 +30,7 @@ mongod
 Run the app
 
 ````
-node src/app.js
+npm run start
 ````
 
 Check it out on port 3000!
